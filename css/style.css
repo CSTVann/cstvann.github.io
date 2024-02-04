@@ -24,6 +24,13 @@
 /* ================================= */
 /* :::::::::: 1. General ::::::::::: */
 /* ================================= */
+.language-skil
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
 
 html, body {
   font-family: 'Open Sans', sans-serif!important;
@@ -686,6 +693,9 @@ position: absolute;
 
 .hobbies {
   padding: 0 0 80px;
+}
+.hobbiess {
+  padding: 0 0 10px;
 }
 
 
